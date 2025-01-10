@@ -9,7 +9,6 @@
 
   
   "scripts": {
-    "dev": "vite",
     "build": "gh-pages -d dist",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
